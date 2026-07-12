@@ -9,4 +9,5 @@
 | Language | File |
 |----------|------|
 | C++ | [solution.cpp](solution.cpp) |
+| JavaScript | [solution.js](solution.js) |
 | Python | [solution.py](solution.py) |
