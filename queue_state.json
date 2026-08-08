@@ -2,7 +2,7 @@
   "schema": 2,
   "source_csv": "/home/tathya/Downloads/3. Six Months.csv",
   "langs_required": 1,
-  "current_index": 2,
+  "current_index": 3,
   "questions": [
     {
       "name": "Two Sum",
@@ -10802,6 +10802,9 @@
       "Python"
     ],
     "shuffle-the-array": [
+      "Python"
+    ],
+    "find-all-numbers-disappeared-in-an-array": [
       "Python"
     ]
   }
