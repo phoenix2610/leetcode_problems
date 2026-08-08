@@ -2,7 +2,7 @@
   "schema": 2,
   "source_csv": "/home/tathya/Downloads/3. Six Months.csv",
   "langs_required": 1,
-  "current_index": 1,
+  "current_index": 2,
   "questions": [
     {
       "name": "Two Sum",
@@ -10799,6 +10799,9 @@
       "Python"
     ],
     "two-sum": [
+      "Python"
+    ],
+    "shuffle-the-array": [
       "Python"
     ]
   }
