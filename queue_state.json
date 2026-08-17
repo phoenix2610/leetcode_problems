@@ -2,7 +2,7 @@
   "schema": 2,
   "source_csv": "/home/tathya/Downloads/3. Six Months.csv",
   "langs_required": 1,
-  "current_index": 16,
+  "current_index": 17,
   "questions": [
     {
       "name": "Two Sum",
@@ -10844,6 +10844,9 @@
       "Python"
     ],
     "count-special-triplets": [
+      "Python"
+    ],
+    "minimum-distance-between-three-equal-elements-ii": [
       "Python"
     ]
   }
