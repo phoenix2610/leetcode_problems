@@ -2,7 +2,7 @@
   "schema": 2,
   "source_csv": "/home/tathya/Downloads/3. Six Months.csv",
   "langs_required": 1,
-  "current_index": 19,
+  "current_index": 20,
   "questions": [
     {
       "name": "Two Sum",
@@ -10853,6 +10853,9 @@
       "Python"
     ],
     "length-of-last-word": [
+      "Python"
+    ],
+    "isomorphic-strings": [
       "Python"
     ]
   }
