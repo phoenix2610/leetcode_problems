@@ -2,7 +2,7 @@
   "schema": 2,
   "source_csv": "/home/tathya/Downloads/3. Six Months.csv",
   "langs_required": 1,
-  "current_index": 24,
+  "current_index": 25,
   "questions": [
     {
       "name": "Two Sum",
@@ -10868,6 +10868,9 @@
       "Python"
     ],
     "check-if-strings-can-be-made-equal-with-operations-i": [
+      "Python"
+    ],
+    "find-words-that-can-be-formed-by-characters": [
       "Python"
     ]
   }
