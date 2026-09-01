@@ -1,10 +1,3 @@
-# 2833. Furthest Point From Origin
-# Difficulty: Easy
-# https://leetcode.com/problems/furthest-point-from-origin/
-# Tags: String, Counting
-
-from typing import List, Optional, Tuple
-
 class Solution:
-    def solution(self):
-        pass
+    def furthestDistanceFromOrigin(self, moves: str) -> int:
+        return abs(sum((c=='R')-(c=='L') for c in moves))+moves.count('_')
