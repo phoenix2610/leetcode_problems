@@ -1,10 +1,14 @@
-# 238. Product of Array Except Self
-# Difficulty: Medium
-# https://leetcode.com/problems/product-of-array-except-self/
-# Tags: Array, Prefix Sum
-
-from typing import List, Optional, Tuple
-
 class Solution:
-    def solution(self):
-        pass
+    def productExceptSelf(self, nums: List[int]) -> List[int]:
+        answer = [1] * len(nums)
+        prefix = 1
+        suffix = 1
+        for i in range(len(nums)):
+            answer[i] *= prefix
+            prefix *= nums[i]
+
+        for i in range(len(nums)-1, -1, -1):
+            answer[i] *= suffix    
+            suffix *= nums[i]
+
+        return answer    
