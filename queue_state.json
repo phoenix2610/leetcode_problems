@@ -4,7 +4,7 @@
   "source_csv": "/home/tathya/Downloads/3. Six Months.csv",
   "generated": "2026-09-06",
   "langs_required": 1,
-  "current_index": 21,
+  "current_index": 22,
   "questions": [
     {
       "name": "Valid Anagram",
@@ -1690,6 +1690,9 @@
       "Python"
     ],
     "daily-temperatures": [
+      "Python"
+    ],
+    "car-fleet": [
       "Python"
     ]
   },
